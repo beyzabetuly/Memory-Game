@@ -1,0 +1,10 @@
+C:\Users\Beyza\Desktop\hesap_makinesi\Hafiza_oyun\Hafiza_oyun\bin\Debug\Hafiza_oyun.exe.config
+C:\Users\Beyza\Desktop\hesap_makinesi\Hafiza_oyun\Hafiza_oyun\bin\Debug\Hafiza_oyun.exe
+C:\Users\Beyza\Desktop\hesap_makinesi\Hafiza_oyun\Hafiza_oyun\bin\Debug\Hafiza_oyun.pdb
+C:\Users\Beyza\Desktop\hesap_makinesi\Hafiza_oyun\Hafiza_oyun\obj\Debug\Hafiza_oyun.csproj.AssemblyReference.cache
+C:\Users\Beyza\Desktop\hesap_makinesi\Hafiza_oyun\Hafiza_oyun\obj\Debug\Hafiza_oyun.Form1.resources
+C:\Users\Beyza\Desktop\hesap_makinesi\Hafiza_oyun\Hafiza_oyun\obj\Debug\Hafiza_oyun.Properties.Resources.resources
+C:\Users\Beyza\Desktop\hesap_makinesi\Hafiza_oyun\Hafiza_oyun\obj\Debug\Hafiza_oyun.csproj.GenerateResource.cache
+C:\Users\Beyza\Desktop\hesap_makinesi\Hafiza_oyun\Hafiza_oyun\obj\Debug\Hafiza_oyun.csproj.CoreCompileInputs.cache
+C:\Users\Beyza\Desktop\hesap_makinesi\Hafiza_oyun\Hafiza_oyun\obj\Debug\Hafiza_oyun.exe
+C:\Users\Beyza\Desktop\hesap_makinesi\Hafiza_oyun\Hafiza_oyun\obj\Debug\Hafiza_oyun.pdb
